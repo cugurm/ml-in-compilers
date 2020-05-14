@@ -7,4 +7,4 @@ ML in compilers, Hot Topics.
 
 * Wang and O'Boyle: *"Machine Learning in Compiler Optimization"* - a great ml survey
 
-* Thomson, O'Boyle, Fursin and Franke: *Reducing Training Time in a One-shot Machine Learning-based Compiler" - boost ml in iterative compilation
+* Thomson, O'Boyle, Fursin and Franke: *"Reducing Training Time in a One-shot Machine Learning-based Compiler"* - boost ml in iterative compilation
