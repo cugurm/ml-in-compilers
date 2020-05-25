@@ -11,3 +11,5 @@ ML in compilers, Hot Topics.
 
 * (:scroll:, 2014, Proceedings of the *23rd International Conference on Parallel Architectures and Compilation*) Magni, Dybach and O'Boyle: *"Automatic Optimization of Thread-Coarsening for Graphics
 Processors"* - the usage of PCA for the purpose of dimensionality reduction
+
+* (:scroll:, 2005, Proc. Int. Symp. Code Generat. Optim. CGO) M. Stephenson and S. Amarasinghe, *“Predicting unroll factors using supervised classification"* - feature selection mechanism from '05 MIT
