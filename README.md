@@ -14,4 +14,4 @@ Processors"* - the usage of PCA for the purpose of dimensionality reduction
 
 * (:scroll:, 2005, Proc. Int. Symp. Code Generat. Optim. CGO) M. Stephenson and S. Amarasinghe, *“Predicting unroll factors using supervised classification"* - feature selection mechanism from '05 MIT
 
-* (:dcroll:, 2013, Proc. Int. Symp. Code Generat. Optim. CGO) S. Kulkarni, J. Cavazos, C. Wimmer and D. Simon, *"Automatic Construction of Inlining Heuristics using Machine Learning"* - combine NEAT and Decision Tree
+* (:scroll:, 2013, Proc. Int. Symp. Code Generat. Optim. CGO) S. Kulkarni, J. Cavazos, C. Wimmer and D. Simon, *"Automatic Construction of Inlining Heuristics using Machine Learning"* - combine NEAT and Decision Tree
