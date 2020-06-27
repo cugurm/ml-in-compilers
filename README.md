@@ -16,11 +16,26 @@ Processors"* - the usage of PCA for the purpose of dimensionality reduction
 
 * (:scroll:, 2013, Proc. Int. Symp. Code Generat. Optim. CGO) S. Kulkarni, J. Cavazos, C. Wimmer and D. Simon, *"Automatic Construction of Inlining Heuristics using Machine Learning"* - combine NEAT and Decision Tree
 
+### :dart: Contents [Attributes extraction]:
+
+* (:scroll:, 2018, ACM Computing Surveys), A. Ashouri, W. Killian, J. Cavazos, G. Palermo, C. Silvano, *"A Survey on Compiler Autotuning using Machine Learning"* - detailer survey
+
+* (:scroll:, 2012, International Symposium on Code Generation and Optimization, CGO), E. Park, J. Cavazos, M. Alvarez, *"Using Graph-Based Program Characterization for Predictive Modeling"*
+
+* (:scroll:, 2010, International Symposium on Code Generation and Optimization, CGO), Y. Jiang, E. Zhang, K. Tian, F. Mao, M. Gethers, X. Shen, Y. Gao, *"Exploiting Statistical Correlations for Proactive Prediction of Program Behaviors"* 
+
+* (:scroll:, 2017, ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES), B. Taylor, M. Vicent Sanz, Z. Wang, *"Adaptive Optimization for OpenCL Programs on Embedded Heterogeneous Systems"*
+
+* (:scroll:, 2009, 14th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP), Z. Wang, M. F. P. O'Boyle, *"Mapping Parallelism to Multi-cores: A Machine Learning Based Approach"*
+
+
 ### :loop: Contents [Graph Neural Networks]:
 
-* (:tv:, 2020, YouTube)  MSR Cambridge, AI Residency Advanced Lecture Series, "An Introduction to Graph Neural Networks: Models and Applications" - gentle introduction into the Graph Neural Networks - [link](https://www.youtube.com/watch?v=zCEYiCxrL_0)
+* (:tv:, 2020, YouTube)  MSR Cambridge, AI Residency Advanced Lecture Series, *"An Introduction to Graph Neural Networks: Models and Applications"* - gentle introduction into the Graph Neural Networks - [link](https://www.youtube.com/watch?v=zCEYiCxrL_0)
 
 * (:tv:, 2020, YouTube), Programming Language Design and Implementation Conference (PLDI), MAPL Session Talks - overview of a Graph Neural Network and currently active research topics - [link](https://www.youtube.com/watch?v=rwBbYhOAnPo&feature=youtu.be) (tutorial begins @56:00)
+
+* *:tv:, 2020, YouTube) 21st ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2020), Prof. Saman Amarasinghe, MIT *"Using Machine Learning to Modernize Compiler Technology"* - inspiring talk - [link](https://conf.researchr.org/home/LCTES-2020)
 
 * (:scroll:, 2018, arXiv print), P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Lio and Y. Bengio, *"Graph attention networks"* - Great paper that introduce Graph Attention Networks (~1500 citations in June '20)
 
