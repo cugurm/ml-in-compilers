@@ -37,10 +37,19 @@ Processors"* - the usage of PCA for the purpose of dimensionality reduction
 
 * *:tv:, 2020, YouTube) 21st ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2020), Prof. Saman Amarasinghe, MIT *"Using Machine Learning to Modernize Compiler Technology"* - inspiring talk - [link](https://conf.researchr.org/home/LCTES-2020)
 
-* (:scroll:, 2018, arXiv print), P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Lio and Y. Bengio, *"Graph attention networks"* - Great paper that introduce Graph Attention Networks (~1500 citations in June '20)
-
 * (:scroll:, 2005, Proceedings of the International Joint Conference on Neural Networks), M. Gori, G. Monfardini and F. Scarselli *"A new model for earning in graph domains"* - GNN intro paper
 
 * (:scroll:, 2009, IEEE Transactions on Neural Networks), F. Scarselli, M. Gori, A. C. Tsoi, M. Hagenbuchner and G. Monfardini, *"The Graph Neural Network Model"* - GNN intro paper
 
-* (:scroll:, 2018, CoRR), J. Zhou, G. Cui, Z. Zhang, C. Yang, Z. Liu and M. Sun, *"Graph Neural Networks: A Review of Methods and Applications"* - Nice review paper
+* (:scroll:, 2018, CoRR Journal), J. Zhou, G. Cui, Z. Zhang, C. Yang, Z. Liu and M. Sun, *"Graph Neural Networks: A Review of Methods and Applications"* - Nice review paper
+
+* (:cyclone:, 2017 CoRR Journal), A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L.  Jones, A. N. Gomez, L. Kaiser and I. Polosukhin, *"Attention Is All You Need"* - attention mechanism
+
+* (:cyclone:, 2020, ICLR), N. Kitaev, L. Kaiser and A. Levskaya, *"Reformer: The Efficient Transformer"* - transforming mechanisms (Google AI Blog: [link](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html))
+
+* (:cyclone:, 2017 ICLR), T. Kipf and M. Welling, *"Semi-Supervised Classification with Graph Convolutional Networks"* - Graph Convolutional Networks (Additional tutorial: [link](http://tkipf.github.io/graph-convolutional-networks/))
+
+* (:cyclone:, 2016 NIPS), M. Defferrard, X. Bresson and P. Vandergheynst, *"Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering"* - Graph Convoutional Networks
+
+* (:cyclone:, 2018, arXiv print), P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Lio and Y. Bengio, *"Graph attention networks"* - Great paper that introduce Graph Attention Networks (blog post: [link](https://petar-v.com/GAT/))
+
