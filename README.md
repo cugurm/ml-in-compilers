@@ -16,6 +16,8 @@ Processors"* - the usage of PCA for the purpose of dimensionality reduction
 
 * (:scroll:, 2013, Proc. Int. Symp. Code Generat. Optim. CGO) S. Kulkarni, J. Cavazos, C. Wimmer and D. Simon, *"Automatic Construction of Inlining Heuristics using Machine Learning"* - combine NEAT and Decision Tree
 
+* (:scroll:, 2020, Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI) M. Allamanis, E. T. Barr, S. Ducousso and Z. Gao, *"Typilus: Neural Type Hints"* - graph neural network that predict types based on a program structure
+
 ### :dart: Contents [Attributes extraction]:
 
 * (:scroll:, 2018, ACM Computing Surveys), A. Ashouri, W. Killian, J. Cavazos, G. Palermo, C. Silvano, *"A Survey on Compiler Autotuning using Machine Learning"* - detailer survey
