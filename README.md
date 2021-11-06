@@ -1,4 +1,4 @@
-# :medal_military: graal_ml
+# :medal_military: 
 ML in compilers, Hot Topics.
 
 ### :books: Contents [General]:
